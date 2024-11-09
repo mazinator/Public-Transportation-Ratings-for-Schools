@@ -1,0 +1,6 @@
+python-tk
+ttkthemes
+python=3.12.4
+neomodel
+torch
+torch-geometric
