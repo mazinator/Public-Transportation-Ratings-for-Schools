@@ -1,10 +1,6 @@
 # Public Transportation Ratings for Schools
  
 ## Introduction
-A good education system is one of the most important aspects of a democracy for various reasons. It is also important to ensure that kids and teenagers can reach their school as easily as possible, for example with public transportation – especially lower income families often don’t have the resources to provide the transportation themselves. 
-Of course, this is a very broad topic and has a lot of different aspects to be considered, e.g. a significant dependency on the discussed region. This portfolio focuses on analyzing the schools in Vienna and what their level of inclusion in the public transportation is.
-Various biases and aspects not included in this portfolio are listed in the appendix.
-## Background
 Vienna is certainly one of the cities with the best public transportation systems in the world, as various studies suggest. While size (both population and area) can be assumed to contribute their parts to this fact, a lot of resources are dedicated by the city to provide a very reliable, very broad and efficient system (as some would say: “every trip takes around 30min”).
 An assumption of myself is that the quality of public transportation system in Vienna leads to many people not having a car in the city (compared to other cities), which again leads to a certain dependency when it comes to schools – the city has to continuously provide reliable public transportation to the schools, as most people simple don’t have a car and can’t drive their kids to school, as it is more or less usual in other regions of Austria. Therefore, I decided to look at those connections and analyze how well schools are connected inside the city.
 
