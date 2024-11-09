@@ -17,8 +17,8 @@ The methodology described below and the structure of it follows the 3 main compo
 The next subchapters describe the various aspects and parts implemented and assessed.
 ### Data
 3 data resources have been used to create the knowledge graph:
--	A json-file containing all Stops (data.gv.at/wien_haltestellen) 
--	A json-file containg all public and private Schools (data.gv.at/schulenstandortewien)
+-	A json-file containing all Stops ([data.gv.at/wien_haltestellen](https://www.data.gv.at/katalog/dataset/stadt-wien_haltestellenstandortewien)) 
+-	A json-file containg all public and private Schools ([data.gv.at/schulenstandortewien](https://www.data.gv.at/katalog/dataset/stadt-wien_schulenstandortewien))
 -	A csv-file containing the transportation lines provided on a Stop (https://www.data.gv.at/katalog/dataset/36a8b9e9-909e-4605-a7ba-686ee3e1b8bf)
 ### Database
 The Neo4J Graph Database was used for this project. On the one hand, it allows a quick and easy registration, allows more than enough free resources and instances, and can be easily connected with e.g. a Jupyter Notebook through the neomodel-library.
